@@ -38,7 +38,7 @@ Here are some of the key projects I have worked on, where I utilized various too
 
 ### 4. **Sales and Financial Analytics**
 - Developed dynamic reports for **AtliQ Hardware** analyzing sales trends and financial performance across different channels.
-- **Tools Used**: **Excel** for detailed data analysis, **SQL** for querying and transforming data, and **Power BI** for creating interactive dashboards and reports.
+- **Tools Used**: **Excel** for querying,transforming data and detailed data analysis.
 
 ## 🎯 Career Goals
 
